@@ -37,4 +37,4 @@ struct ListNode* ReverseList(struct ListNode* pHead ) {
 ```
 
 ## 图解
-![alt ReverseList](.\pics\ReverseList\ReverseList0.jpg)
+![alt ReverseList](./pics/ReverseList/ReverseList0.jpg)
