@@ -48,7 +48,7 @@ int* PrintFromTopToBottom(struct TreeNode* root, int* returnSize ) {
             returnArr[valueIndex] = tmp->val; 
             valueIndex++;
             
-            // move left chile and right chile into the queue 
+            // move left child and right child into the queue 
             if(tmp->left != NULL){
                 fifo[wptr] = tmp->left; 
                 wptr++;

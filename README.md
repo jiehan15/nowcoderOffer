@@ -23,3 +23,17 @@
 2. [JZ30 包含min函数的栈](./questions/stackWithMin.md)  
 3. [JZ79 判断是不是平衡二叉树](./questions/IsBalanced_Solution.md)  
 4. [JZ28 对称的二叉树](./questions/isSymmetrical.md)  
+5. [JZ73 翻转单词序列](./questions/ReverseSentence.md)  
+
+2022年7月4日
+1. [JZ77 按之字形顺序打印二叉树](./questions/PrintTreeZigZag.md)  
+2. [JZ54 二叉搜索树的第k个节点](./questions/KthNode.md)  
+
+2022年7月5日
+1. [JZ68 二叉搜索树的最近公共祖先](./questions/lowestCommonAncestor.md)  
+2. [JZ53 数字在升序数组中出现的次数](./questions/GetNumberOfK.md)  
+
+2022年7月6日
+1. [JZ4 二维数组中的查找](./questions/findin2DArray.md)  
+2. [JZ15 二进制中1的个数](./questions/NumberOf1inBinary.md)  
+
