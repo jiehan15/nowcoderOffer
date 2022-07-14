@@ -37,3 +37,19 @@
 1. [JZ4 二维数组中的查找](./questions/findin2DArray.md)  
 2. [JZ15 二进制中1的个数](./questions/NumberOf1inBinary.md)  
 
+2022年7月9日
+1. [JZ65 不用加减乘除做加法](./questions/addwithout.md)  
+2. [JZ11 旋转数组的最小数字](./questions/minNumberInRotateArray.md)  
+3. [JZ44 数字序列中某一位的数字](./questions/findNthDigit.md)  
+4. [JZ16 数值的整数次方](./questions/PowerWithout.md)    
+
+2022年7月11日
+1. [JZ42 连续子数组的最大和](./questions/FindGreatestSumOfSubArray.md)
+2. [JZ56 数组中只出现一次的两个数字](./questions/FindNumsAppearOnce.md)  
+
+2022年7月12日
+1. [JZ64 求1+2+3+...+n](./questions/Sum_Solution.md)  
+
+2022年7月14日
+1. [JZ7 重建二叉树](./questions/pics/reConstructBinaryTree.md)  
+2. [JZ33 二叉搜索树的后序遍历序列](./questions/VerifySquenceOfBST.md)  
