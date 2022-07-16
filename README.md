@@ -53,3 +53,8 @@
 2022年7月14日
 1. [JZ7 重建二叉树](./questions/pics/reConstructBinaryTree.md)  
 2. [JZ33 二叉搜索树的后序遍历序列](./questions/VerifySquenceOfBST.md)  
+
+2022年7月16日
+1. [JZ82 二叉树中和为某一值的路径(一)](./questions/hasPathSum.md)  
+2. [JZ31 栈的压入、弹出序列](./questions/IsPopOrder.md)  
+3. [JZ10 斐波那契数列](./questions/Fibonacci.md)  
