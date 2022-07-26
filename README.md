@@ -58,3 +58,14 @@
 1. [JZ82 二叉树中和为某一值的路径(一)](./questions/hasPathSum.md)  
 2. [JZ31 栈的压入、弹出序列](./questions/IsPopOrder.md)  
 3. [JZ10 斐波那契数列](./questions/Fibonacci.md)  
+
+2022年7月22日
+1. [JZ69 跳台阶](./questions/jumpFloor.md)  
+2. [JZ71 跳台阶扩展问题](./questions/jumpFloorII.md)  
+3. [JZ63 买卖股票的最好时机(一)](./questions/maxProfit.md)  
+
+2022年7月24日
+1. [JZ17 打印从1到最大的n位数](./questions/printNumbers.md)  
+2. [JZ81 调整数组顺序使奇数位于偶数前面(二)](./questions/reOrderArrayTwo.md) 
+3. [JZ29 顺时针打印矩阵](./questions/printMatrix.md)  
+4. [JZ39 数组中出现次数超过一半的数字](./questions/MoreThanHalfNum_Solution.md)  
